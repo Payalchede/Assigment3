@@ -1,0 +1,59 @@
+.container{
+    width: 1200px;
+    margin: auto;
+  
+}
+
+ .row{
+    display: flex;
+    flex-wrap: wrap;
+   padding: 80px;
+}
+
+.part{
+    width: 45%;
+    margin: auto;
+  
+}
+
+
+.p1{
+    width: 51%;
+    font-size: 15px;
+
+}
+.box{
+    width: 100%;
+    margin: auto;
+    
+}
+
+.part1{
+    width: 45%;
+    margin: auto;
+
+}
+
+ .img{
+    width: 100px;
+    margin: auto;
+    padding: 15px 15px;
+}
+
+.box .part2{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 19px;
+}
+
+.part2 p{
+    width: 100%;
+    margin: auto;
+ 
+}
+
+.box1{
+    padding: 45px 2px;
+    display: flex;
+}
